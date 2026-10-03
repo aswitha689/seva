@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "post-matric-scholarship",
+    "name": "Post-Matric Student Merit Scholarship",
+    "name_te": "పోస్ట్-మెట్రిక్ విద్యార్థి మెరిట్ స్కాలర్‌షిప్",
+    "name_hi": "पोस्ट-मैट्रिक छात्र मेरिट छात्रवृत्ति",
+    "category": "Education",
+    "description": "Financial scholarship to support post-matriculation and diploma students covering annual maintenance fees and tuition subsidies.",
+    "description_te": "పోస్ట్-మెట్రిక్యులేషన్ మరియు డిప్లొమా విద్యార్థులకు వార్షిక నిర్వహణ రుసుము మరియు ట్యూషన్ సబ్సిడీలను అందించే ఆర్థిక స్కాలర్‌షిప్.",
+    "description_hi": "पोस्ट-मैट्रिक और डिप्लोमा छात्रों के लिए वार्षिक रख-रखाव शुल्क और ट्यूशन सब्सिडी प्रदान करने वाली वित्तीय छात्रवृत्ति।",
+    "state_region": "Telangana / Andhra Pradesh (Demo)",
+    "department": "Department of Social Welfare & Higher Education",
+    "eligibility": {
+      "minAge": 16,
+      "maxAge": 30,
+      "occupations": [
+        "Student"
+      ],
+      "maxAnnualIncome": 250000,
+      "targetGroups": [
+        "Student",
+        "Woman"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Full-time students in recognized college/diploma programs with family annual income under ₹2,50,000.",
+      "summary_te": "గుర్తింపు పొందిన కళాశాలల్లో చదువుతూ కుటుంబ వార్షిక ఆదాయం ₹2.5 లక్షల లోపు ఉన్న పూర్తి సమయం విద్యార్థులు.",
+      "summary_hi": "मान्यता प्राप्त कॉलेज/डिप्लोमा में पढ़ने वाले छात्र जिनकी पारिवारिक वार्षिक आय ₹2.5 लाख से कम हो।"
+    },
+    "documents": [
+      {
+        "id": "doc-college-id",
+        "name": "College Admission / Bonafide Certificate",
+        "name_te": "కళాశాల ప్రవేశం / బోనఫైడ్ సర్టిఫికెట్",
+        "name_hi": "कॉलेज प्रवेश / बोनाफाइड प्रमाणपत्र",
+        "required": true,
+        "description": "Current academic year bonafide issued by college principal.",
+        "description_te": "కళాశాల ప్రిన్సిపాల్ జారీ చేసిన ప్రస్తుత విద్యా సంవత్సరం బోనఫైడ్ సర్టిఫికెట్.",
+        "description_hi": "कॉलेज प्रिंसिपल द्वारा जारी वर्तमान शैक्षणिक वर्ष का बोनाफाइड प्रमाणपत्र।"
+      },
+      {
+        "id": "doc-income-cert",
+        "name": "Income Certificate (MeeSeva / Tahsildar)",
+        "name_te": "ఆదాయ ధ్రువీకరణ పత్రం (మీసేవ / తహసీల్దార్)",
+        "name_hi": "आय प्रमाण पत्र (मीसेवा / तहसीलदार)",
+        "required": true,
+        "description": "Valid income certificate showing annual family income under ₹2.5 Lakhs.",
+        "description_te": "వార్షిక కుటుంబ ఆదాయం ₹2.5 లక్షల లోపు ఉన్నట్లు తెలిపే ఆదాయ ధ్రువీకరణ పత్రం.",
+        "description_hi": "वार्षिक पारिवारिक आय ₹2.5 लाख से कम दर्शाने वाला वैध आय प्रमाण पत्र।"
+      },
+      {
+        "id": "doc-marks-memo",
+        "name": "Previous Year Marks Memo",
+        "name_te": "మునుపటి సంవత్సరం మార్కుల మెమో",
+        "name_hi": "पिछले वर्ष की अंकतालिका",
+        "required": true,
+        "description": "Grade sheet or memo of intermediate / 10th standard.",
+        "description_te": "ఇంటర్మీడియట్ లేదా 10వ తరగతి మార్కుల మెమో.",
+        "description_hi": "इंटरमीडिएट या 10वीं कक्षा की अंकतालिका।"
+      },
+      {
+        "id": "doc-bank-passbook",
+        "name": "Student Bank Passbook Copy",
+        "name_te": "విద్యార్థి బ్యాంక్ పాస్‌బుక్ కాపీ",
+        "name_hi": "छात्र बैंक पासबुक प्रति",
+        "required": true,
+        "description": "Bank account in student's name linked with Aadhaar.",
+        "description_te": "ఆధార్ కార్డుతో అనుసంధానించబడిన విద్యార్థి బ్యాంక్ పాస్‌బుక్ కాపీ.",
+        "description_hi": "आधार से लिंक विद्यार्थी के बैंक खाते की पासबुक प्रति।"
+      },
+      {
+        "id": "doc-caste-cert",
+        "name": "Caste / Community Certificate (Optional)",
+        "name_te": "కుల ధ్రువీకరణ పత్రం (ఐచ్ఛికం)",
+        "name_hi": "जाति प्रमाण पत्र (वैकल्पिक)",
+        "required": false,
+        "description": "If applying under reservation categories.",
+        "description_te": "రిజర్వేషన్ వర్గాల కింద దరఖాస్తు చేసుకుంటే కుల ధ్రువీకరణ పత్రం.",
+        "description_hi": "आरक्षण श्रेणी के तहत आवेदन हेतु जाति प्रमाण पत्र।"
+      }
+    ],
+    "application_steps": [
+      "Verify Student Identity & Academic Profile",
+      "Upload Bonafide & Income Documentation",
+      "Departmental Verification by College Liaison Officer",
+      "Direct Benefit Transfer (DBT) sanction into bank account"
+    ],
+    "processing_information": {
+      "timelineDays": 21,
+      "fee": "Free (No government fee)",
+      "authority": "District Welfare Officer",
+      "deliveryMode": "Direct Benefit Transfer (DBT) to Bank Account",
+      "fee_te": "ఉచితం (ఎటువంటి ప్రభుత్వ రుసుము లేదు)",
+      "fee_hi": "निःशुल्क (कोई सरकारी शुल्क नहीं)",
+      "authority_te": "జిల్లా సంక్షేమాధికారి",
+      "authority_hi": "जिला कल्याण अधिकारी",
+      "deliveryMode_te": "బ్యాంకు ఖాతాకు ప్రత్యక్ష నగదు బదిలీ (DBT)",
+      "deliveryMode_hi": "बैंक खाते में प्रत्यक्ष लाभ अंतरण (DBT)"
+    },
+    "official_source": "https://telanganaepass.cgg.gov.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "Can private college students apply?",
+        "answer": "Yes, as long as the course and institution are recognized by the state university board.",
+        "question_te": "ప్రైవేట్ కాలేజీ విద్యార్థులు దరఖాస్తు చేసుకోవచ్చా?",
+        "answer_te": "అవును, కోర్సు మరియు కళాశాల రాష్ట్ర విశ్వవిద్యాలయ గుర్తింపు పొంది ఉంటే దరఖాస్తు చేసుకోవచ్చు.",
+        "question_hi": "क्या निजी कॉलेज के छात्र आवेदन कर सकते हैं?",
+        "answer_hi": "हाँ, यदि पाठ्यक्रम और संस्थान राज्य विश्वविद्यालय बोर्ड द्वारा मान्यता प्राप्त हैं।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "విద్య",
+    "category_hi": "शिक्षा",
+    "department_te": "సాంఘిక సంక్షేమ మరియు ఉన్నత విద్యా శాఖ",
+    "department_hi": "सामाजिक कल्याण एवं उच्च शिक्षा विभाग",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది నమూనా పోస్ట్-మెట్రిక్ స్కాలర్‌షిప్ సేవా వివరణ మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल पोस्ट-मैट्रिक छात्रवृत्ति सेवा का विवरण है।",
+    "application_steps_te": [
+      "విద్యార్థి గుర్తింపు మరియు విద్యా ప్రొఫైల్ ధ్రువీకరణ",
+      "బోనఫైడ్ మరియు ఆదాయ ధ్రువీకరణ పత్రాల సమర్పణ",
+      "కళాశాల అనుసంధాన అధికారిచే శాఖాపరమైన పరిశీలన",
+      "బ్యాంకు ఖాతాలోకి నేరుగా నగదు బదిలీ (DBT) మంజూరు"
+    ],
+    "application_steps_hi": [
+      "विद्यार्थी पहचान और शैक्षणिक प्रोफ़ाइल सत्यापन",
+      "बोनाफाइड और आय प्रमाण पत्रों को अपलोड करना",
+      "कॉलेज संपर्क अधिकारी द्वारा विभागीय सत्यापन",
+      "बैंक खाते में प्रत्यक्ष लाभ अंतरण (DBT) की स्वीकृति"
+    ]
+  },
+  {
+    "id": "higher-edu-financial-support",
+    "name": "Higher Education Financial Support & Book Grant",
+    "name_te": "ఉన్నత విద్య ఆర్థిక సహాయం & పుస్తక గ్రాంట్",
+    "name_hi": "उच्च शिक्षा वित्तीय सहायता एवं पुस्तक अनुदान",
+    "category": "Education",
+    "description": "Special educational grant for undergraduate women and meritorious students to offset study materials, hostel fees, and exam costs.",
+    "description_te": "డిగ్రీ విద్యార్థినులకు మరియు ప్రతిభావంతులకు స్టడీ మెటీరియల్స్, హాస్టల్ రుసుములు మరియు పరీక్ష ఖర్చుల కోసం ప్రత్యేక ఆర్థిక గ్రాంట్.",
+    "description_hi": "अंडरग्रेजुएट छात्राओं और मेधावी छात्रों के लिए अध्ययन सामग्री, हॉस्टल शुल्क और परीक्षा लागत में सहायता हेतु विशेष शैक्षिक अनुदान।",
+    "state_region": "Telangana / Andhra Pradesh (Demo)",
+    "department": "Department of Collegiate Education & Youth Welfare",
+    "eligibility": {
+      "minAge": 17,
+      "maxAge": 28,
+      "occupations": [
+        "Student"
+      ],
+      "maxAnnualIncome": 300000,
+      "targetGroups": [
+        "Student",
+        "Woman"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Enrolled in degree/polytechnic/vocational course; priority for young women with annual income under ₹3 Lakhs.",
+      "summary_te": "డిగ్రీ లేదా పాలిటెక్నిక్ కోర్సులో చేరిన విద్యార్థినులు, కుటుంబ ఆదాయం ₹3 లక్షల లోపు ఉన్నవారు.",
+      "summary_hi": "डिग्री/पॉलीटेक्निक में नामांकित छात्राएं, जिनकी वार्षिक पारिवारिक आय ₹3 लाख से कम हो।"
+    },
+    "documents": [
+      {
+        "id": "doc-college-id-card",
+        "name": "College Student ID Card",
+        "name_te": "కళాశాల గుర్తింపు కార్డు (ID కార్డ్)",
+        "name_hi": "कॉलेज छात्र पहचान पत्र",
+        "required": true,
+        "description": "Valid photo ID card issued by currently enrolled institution.",
+        "description_te": "ప్రస్తుతం చదువుతున్న విద్యాసంస్థ జారీ చేసిన ఫోటో గుర్తింపు కార్డు.",
+        "description_hi": "वर्तमान में अध्ययनरत संस्थान द्वारा जारी वैध फोटो पहचान पत्र।"
+      },
+      {
+        "id": "doc-fee-receipt",
+        "name": "Current Semester Fee Receipt",
+        "name_te": "ప్రస్తుత సెమిస్టర్ ఫీజు రసీదు",
+        "name_hi": "वर्तमान सेमेस्टर शुल्क रसीद",
+        "required": true,
+        "description": "Paid fee receipt or admission allotment order.",
+        "description_te": "చెల్లించిన ఫీజు రసీదు లేదా సీటు కేటాయింపు పత్రం.",
+        "description_hi": "भुगतान की गई फीस की रसीद या प्रवेश आवंटन आदेश।"
+      },
+      {
+        "id": "doc-ration-card",
+        "name": "White Ration Card / Food Security Card",
+        "name_te": "ఆహార భద్రత కార్డు (వైట్ రేషన్ కార్డ్)",
+        "name_hi": "खाद्य सुरक्षा / राशन कार्ड",
+        "required": true,
+        "description": "Proof of economic backwardness / family listing.",
+        "description_te": "కుటుంబ ఆర్థిక స్థితిని తెలిపే ఆహార భద్రత కార్డు లేదా తెల్ల రేషన్ కార్డు.",
+        "description_hi": "आर्थिक पिछड़ेपन के प्रमाण हेतु श्वेत राशन कार्ड या खाद्य सुरक्षा कार्ड।"
+      },
+      {
+        "id": "doc-aadhar-card",
+        "name": "Citizen Aadhaar Card Copy",
+        "name_te": "ఆధార్ కార్డు కాపీ",
+        "name_hi": "आधार कार्ड प्रति",
+        "required": true,
+        "description": "Aadhaar document for identity verification (simulated demo).",
+        "description_te": "గుర్తింపు ధ్రువీకరణ కోసం పౌరుని ఆధార్ కార్డు కాపీ.",
+        "description_hi": "पहचान सत्यापन हेतु नागरिक आधार कार्ड की प्रति।"
+      }
+    ],
+    "application_steps": [
+      "Submit Student Details & Course Information",
+      "Attach College ID and Ration Card Copy",
+      "Collegiate Inspector Desk Approval",
+      "Direct Disbursal of ₹15,000 / year grant to bank account"
+    ],
+    "processing_information": {
+      "timelineDays": 14,
+      "fee": "Free",
+      "authority": "Directorate of Collegiate Services",
+      "deliveryMode": "Electronic Bank Remittance",
+      "fee_te": "ఉచితం",
+      "fee_hi": "निःशुल्क",
+      "authority_te": "కళాశాల విద్యా సేవల డైరెక్టరేట్",
+      "authority_hi": "कॉलेजिएट सेवा निदेशालय",
+      "deliveryMode_te": "ఎలక్ట్రానిక్ బ్యాంకు బదిలీ",
+      "deliveryMode_hi": "इलेक्ट्रॉनिक बैंक हस्तांतरण"
+    },
+    "official_source": "https://dce.tg.nic.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "Can I receive this in addition to post-matric scholarship?",
+        "answer": "Yes, this book and sustenance grant is non-overlapping and supplementary.",
+        "question_te": "పోస్ట్-మెట్రిక్ స్కాలర్‌షిప్‌తో పాటు ఈ సహాయం పొందవచ్చా?",
+        "answer_te": "అవును, పుస్తక మరియు జీవనోపాధి గ్రాంట్ అదనంగా అందుబాటులో ఉంటుంది.",
+        "question_hi": "क्या पोस्ट-मैट्रिक छात्रवृत्ति के साथ यह सहायता मिल सकती है?",
+        "answer_hi": "हाँ, यह अध्ययन सामग्री और भत्ता अनुदान अतिरिक्त रूप से प्राप्त किया जा सकता है।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "విద్య",
+    "category_hi": "शिक्षा",
+    "department_te": "కళాశాల విద్య మరియు యువజన సంక్షేమ శాఖ",
+    "department_hi": "कॉलेजिएट शिक्षा एवं युवा कल्याण विभाग",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది నమూనా ఉన్నత విద్యా ఆర్థిక సహాయ సేవా వివరణ మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल उच्च शिक्षा वित्तीय सहायता सेवा का विवरण है।",
+    "application_steps_te": [
+      "విద్యార్థి వివరాలు మరియు కోర్సు సమాచారం సమర్పణ",
+      "కళాశాల ఐడీ కార్డు మరియు రేషన్ కార్డు కాపీ జతచేయడం",
+      "కళాశాల తనిఖీ విభాగం నుండి ఆమోదం",
+      "బ్యాంకు ఖాతాకు నేరుగా ₹15,000 వార్షిక గ్రాంట్ జమ"
+    ],
+    "application_steps_hi": [
+      "विद्यार्थी विवरण और पाठ्यक्रम की जानकारी जमा करना",
+      "कॉलेज आईडी और राशन कार्ड की प्रति संलग्न करना",
+      "कॉलेजिएट निरीक्षक द्वारा डेस्क अनुमोदन",
+      "बैंक खाते में सीधे ₹15,000/वर्ष अनुदान का भुगतान"
+    ]
+  },
+  {
+    "id": "senior-citizen-pension",
+    "name": "Senior Citizen Social Security Pension (Aasara / Vrudhyapya)",
+    "name_te": "సీనియర్ సిటిజన్ ఆసరా / వృద్ధాప్య పింఛను",
+    "name_hi": "वरिष्ठ नागरिक सामाजिक सुरक्षा पेंशन (आसरा / वृद्धावस्था)",
+    "category": "Senior Citizens",
+    "description": "Monthly direct social security pension providing dignified sustenance for elderly citizens aged 57 and above from vulnerable households.",
+    "description_te": "57 మరియు అంతకంటే ఎక్కువ వయస్సు ఉన్న వృద్ధులకు గౌరవప్రదమైన జీవనం కోసం నెలవారీ సామాజిక భద్రతా పింఛను.",
+    "description_hi": "57 वर्ष या उससे अधिक आयु के बुजुर्ग नागरिकों को सम्मानजनक जीवन यापन हेतु मासिक सामाजिक सुरक्षा पेंशन।",
+    "state_region": "Telangana / All India (Demo)",
+    "department": "Panchayat Raj & Rural Development / Municipal Administration",
+    "eligibility": {
+      "minAge": 57,
+      "maxAge": 120,
+      "occupations": [
+        "Senior",
+        "Retired",
+        "Homemaker",
+        "Other"
+      ],
+      "maxAnnualIncome": 150000,
+      "targetGroups": [
+        "Senior"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Citizens aged 57+ residing in state with annual household income under ₹1,50,000 and no government pension beneficiary in family.",
+      "summary_te": "57 ఏళ్లు పైబడిన వారు, కుటుంబ వార్షిక ఆదాయం ₹1.5 లక్షల లోపు ఉండి ప్రభుత్వ ఉద్యోగ పెన్షన్ లేనివారు.",
+      "summary_hi": "57 वर्ष से अधिक आयु, पारिवारिक वार्षिक आय ₹1.5 लाख से कम और परिवार में कोई सरकारी पेंशनभोगी न हो।"
+    },
+    "documents": [
+      {
+        "id": "doc-age-proof",
+        "name": "Age Proof (Aadhaar / Voter ID / Birth Certificate)",
+        "name_te": "వయస్సు ధ్రువీకరణ (ఆధార్ / ఓటర్ కార్డ్)",
+        "name_hi": "आयु प्रमाण (आधार / वोटर आईडी)",
+        "required": true,
+        "description": "Document confirming age is 57 years or above.",
+        "description_te": "వయస్సు 57 సంవత్సరాలు లేదా అంతకంటే ఎక్కువ ఉన్నట్లు తెలిపే పత్రం.",
+        "description_hi": "आयु 57 वर्ष या उससे अधिक होने की पुष्टि करने वाला दस्तावेज़।"
+      },
+      {
+        "id": "doc-residence-proof",
+        "name": "Residence Certificate / Local Electricity Bill",
+        "name_te": "నివాస ధ్రువీకరణ / కరెంట్ బిల్లు",
+        "name_hi": "निवास प्रमाण / बिजली बिल",
+        "required": true,
+        "description": "Proof of residence within the municipal or gram panchayat limits.",
+        "description_te": "మున్సిపాలిటీ లేదా గ్రామ పంచాయతీ పరిధిలో నివాస ధ్రువీకరణ లేదా విద్యుత్ బిల్లు.",
+        "description_hi": "नगर पालिका या ग्राम पंचायत सीमा में निवास का प्रमाण या बिजली बिल।"
+      },
+      {
+        "id": "doc-senior-photo",
+        "name": "Passport Size Photograph",
+        "name_te": "పాస్‌పోర్ట్ సైజు ఫోటో",
+        "name_hi": "पासपोर्ट साइज फोटो",
+        "required": true,
+        "description": "Recent photograph of applicant.",
+        "description_te": "దరఖాస్తుదారుని ఇటీవలి పాస్‌పోర్ట్ సైజు ఫోటో.",
+        "description_hi": "आवेदक का हालिया पासपोर्ट आकार का फोटो।"
+      },
+      {
+        "id": "doc-senior-passbook",
+        "name": "Single Bank / Post Office Account Passbook",
+        "name_te": "బ్యాంక్ లేదా పోస్ట్ ఆఫీస్ పాస్‌బుక్",
+        "name_hi": "बैंक या पोस्ट ऑफिस पासबुक",
+        "required": true,
+        "description": "Account where monthly pension of ₹2,016 will be credited.",
+        "description_te": "నెలవారీ ₹2,016 పింఛను జమ కావడానికి వ్యక్తిగత బ్యాంక్ లేదా పోస్టాఫీసు పాస్‌బుక్.",
+        "description_hi": "मासिक ₹2,016 पेंशन प्राप्त करने के लिए बैंक या डाकघर पासबुक।"
+      }
+    ],
+    "application_steps": [
+      "Citizen Age & Residence Verification",
+      "Gram Panchayat / Ward Sachivalayam Field Check",
+      "Mandal Parishad Development Officer (MPDO) Approval",
+      "Pension Card Issuance & Monthly Disbursal"
+    ],
+    "processing_information": {
+      "timelineDays": 30,
+      "fee": "Free",
+      "authority": "District Collector / SERP",
+      "deliveryMode": "Direct Bank Account Credit / Gram Panchayat Delivery",
+      "fee_te": "ఉచితం",
+      "fee_hi": "निःशुल्क",
+      "authority_te": "జిల్లా కలెక్టర్ / సెర్ప్ (SERP)",
+      "authority_hi": "जिला कलेक्टर / सेर्प (SERP)",
+      "deliveryMode_te": "బ్యాంకు ఖాతాలో ప్రత్యక్ష జమ లేదా గ్రామ పంచాయతీ పంపిణీ",
+      "deliveryMode_hi": "प्रत्यक्ष बैंक खाता जमा अथवा ग्राम पंचायत वितरण"
+    },
+    "official_source": "https://aasara.telangana.gov.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "What is the monthly amount credited?",
+        "answer": "Currently ₹2,016 per month credited directly to the senior citizen's bank account.",
+        "question_te": "నెలవారీ ఎంత మొత్తం అందుతుంది?",
+        "answer_te": "నెలకు ₹2,016 నేరుగా సీనియర్ సిటిజన్ బ్యాంక్ ఖాతాలో జమ చేయబడుతుంది.",
+        "question_hi": "मासिक कितनी राशि प्राप्त होती है?",
+        "answer_hi": "प्रति माह ₹2,016 सीधे वरिष्ठ नागरिक के बैंक खाते में जमा किए जाते हैं।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "వృద్ధుల సంక్షేమం",
+    "category_hi": "वरिष्ठ नागरिक",
+    "department_te": "పంచాయతీరాజ్ మరియు గ్రామీణాభివృద్ధి / మున్సిపల్ పరిపాలన శాఖ",
+    "department_hi": "पंचायती राज एवं ग्रामीण विकास / नगर पालिका प्रशासन",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది వృద్ధాప్య పింఛను సేవా నమూనా మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल वृद्धावस्था पेंशन सेवा विवरण है।",
+    "application_steps_te": [
+      "పౌరుని వయస్సు మరియు నివాస ధ్రువీకరణ",
+      "గ్రామ పంచాయతీ / వార్డు సచివాలయ క్షేత్రస్థాయి పరిశీలన",
+      "మండల పరిషత్ అభివృద్ధి అధికారి (MPDO) ఆమోదం",
+      "పింఛను కార్డు జారీ మరియు నెలవారీ చెల్లింపు"
+    ],
+    "application_steps_hi": [
+      "नागरिक की आयु और निवास का सत्यापन",
+      "ग्राम पंचायत / वार्ड सचिवालय द्वारा फील्ड जांच",
+      "मंडल परिषद विकास अधिकारी (MPDO) द्वारा अनुमोदन",
+      "पेंशन कार्ड जारी होना और मासिक भुगतान"
+    ]
+  },
+  {
+    "id": "farmer-assistance",
+    "name": "Rythu / Krishi Direct Income Support Scheme",
+    "name_te": "రైతు / కృషి ప్రత్యక్ష పెట్టుబడి సహాయ పథకం",
+    "name_hi": "किसान प्रत्यक्ष कृषि निवेश सहायता योजना",
+    "category": "Farmer Services",
+    "description": "Direct agricultural investment incentive of ₹5,000 to ₹10,000 per acre per year for purchase of seeds, fertilizers, and farming inputs.",
+    "description_te": "విత్తనాలు, ఎరువులు మరియు వ్యవసాయ అవసరాల కోసం ఎకరానికి ఏటా ₹5,000 నుండి ₹10,000 పెట్టుబడి సహాయం.",
+    "description_hi": "बीज, उर्वरक और कृषि आदानों की खरीद हेतु प्रति एकड़ सालाना ₹5,000 से ₹10,000 की सीधी कृषि निवेश प्रोत्साहन सहायता।",
+    "state_region": "Telangana / Andhra Pradesh (Demo)",
+    "department": "Department of Agriculture & Farmers Welfare",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 100,
+      "occupations": [
+        "Farmer"
+      ],
+      "maxAnnualIncome": 1000000,
+      "targetGroups": [
+        "Farmer"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Landowning farmers holding registered title deed (Pattadar Passbook) or recognized tenant cultivation rights.",
+      "summary_te": "పట్టాదారు పాస్‌బుక్ కలిగిన రైతులు లేదా గుర్తింపు పొందిన కౌలు రైతులు.",
+      "summary_hi": "पट्टादार पासबुक धारक भूमिस्वामी किसान अथवा मान्यता प्राप्त काश्तकार किसान।"
+    },
+    "documents": [
+      {
+        "id": "doc-pattadar-passbook",
+        "name": "Pattadar Passbook / Dharani Land Record",
+        "name_te": "పట్టాదారు పాస్‌బుక్ / ధరణి రికార్డు",
+        "name_hi": "पट्टादार पासबुक / धरणी भूमि रिकॉर्ड",
+        "required": true,
+        "description": "Land title verification number (Khata / Survey Number).",
+        "description_te": "భూమి యాజమాన్య ధ్రువీకరణ ఖాతా / సర్వే నంబర్ పాస్‌బుక్.",
+        "description_hi": "भूमि स्वामित्व सत्यापन संख्या (खाता / खसरा नंबर)।"
+      },
+      {
+        "id": "doc-farmer-aadhar",
+        "name": "Farmer Aadhaar Card",
+        "name_te": "రైతు ఆధార్ కార్డు",
+        "name_hi": "किसान आधार कार्ड",
+        "required": true,
+        "description": "Linked to land survey title.",
+        "description_te": "భూమి సర్వే హక్కులతో అనుసంధానించబడిన రైతు ఆధార్ కార్డు.",
+        "description_hi": "भूमि सर्वेक्षण से जुड़ा किसान आधार कार्ड।"
+      },
+      {
+        "id": "doc-farmer-bank",
+        "name": "Agricultural Bank Account Details",
+        "name_te": "వ్యవసాయ బ్యాంక్ ఖాతా వివరాలు",
+        "name_hi": "कृषि बैंक खाता विवरण",
+        "required": true,
+        "description": "NPCI mapped active bank passbook.",
+        "description_te": "ఎన్‌పీసీఐతో అనుసంధానించబడిన క్రియాశీల వ్యవసాయ బ్యాంక్ ఖాతా.",
+        "description_hi": "एनपीसीआई से लिंक सक्रिय कृषि बैंक पासबुक।"
+      }
+    ],
+    "application_steps": [
+      "Land Record Digital Validation via Revenue Database",
+      "Agriculture Extension Officer (AEO) Geo-tagging",
+      "Seasonal Benefit Sanction Order (Kharif / Rabi)",
+      "Instant Electronic DBT Transfer"
+    ],
+    "processing_information": {
+      "timelineDays": 10,
+      "fee": "Free",
+      "authority": "Commissioner of Agriculture",
+      "deliveryMode": "Direct Bank DBT",
+      "fee_te": "ఉచితం",
+      "fee_hi": "निःशुल्क",
+      "authority_te": "వ్యవసాయ శాఖ కమిషనర్",
+      "authority_hi": "कृषि आयुक्त",
+      "deliveryMode_te": "బ్యాంకు ఖాతాకు ప్రత్యక్ష DBT బదిలీ",
+      "deliveryMode_hi": "प्रत्यक्ष बैंक डीबीटी हस्तांतरण"
+    },
+    "official_source": "https://rythubandhu.telangana.gov.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "Is assistance given for both Kharif and Rabi seasons?",
+        "answer": "Yes, ₹5,000 per acre is disbursed in each season directly prior to sowing.",
+        "question_te": "ఖరీఫ్ మరియు రబీ రెండు సీజన్లకు సహాయం అందుతుందా?",
+        "answer_te": "అవును, విత్తనాలు వేసే ముందు ఒక్కో సీజన్‌కు ఎకరానికి ₹5,000 నేరుగా జమ చేయబడుతుంది.",
+        "question_hi": "क्या खरीफ और रबी दोनों सत्रों के लिए सहायता मिलती है?",
+        "answer_hi": "हाँ, बुआई से पहले प्रति सत्र प्रति एकड़ ₹5,000 सीधे हस्तांतरित किए जाते हैं।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "రైతు సేవలు",
+    "category_hi": "किसान सेवाएं",
+    "department_te": "వ్యవసాయ మరియు రైతు సంక్షేమ శాఖ",
+    "department_hi": "कृषि एवं किसान कल्याण विभाग",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది రైతు ఆర్థిక సహాయ సేవా నమూనా మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल किसान सहायता सेवा विवरण है।",
+    "application_steps_te": [
+      "రెవెన్యూ డేటాబేస్ ద్వారా భూ రికార్డుల డిజిటల్ పరిశీలన",
+      "వ్యవసాయ విస్తరణ అధికారి (AEO) జియో-ట్యాగింగ్ తనిఖీ",
+      "సీజనల్ పెట్టుబడి సహాయ మంజూరు ఉత్తర్వులు (ఖరీఫ్ / రబీ)",
+      "ఖాతాలోకి తక్షణ ఎలక్ట్రానిక్ నగదు బదిలీ (DBT)"
+    ],
+    "application_steps_hi": [
+      "राजस्व डेटाबेस के माध्यम से भूमि रिकॉर्ड का डिजिटल सत्यापन",
+      "कृषि विस्तार अधिकारी (AEO) द्वारा जियो-टैगिंग",
+      "मौसमी सहायता स्वीकृति आदेश (खरीफ / रबी)",
+      "सीधे खाते में तत्काल इलेक्ट्रॉनिक डीबीटी अंतरण"
+    ]
+  },
+  {
+    "id": "income-certificate",
+    "name": "Citizen Annual Income Certificate Issuance",
+    "name_te": "వార్షిక ఆదాయ ధ్రువీకరణ పత్రం జారీ (మీసేవ)",
+    "name_hi": "वार्षिक आय प्रमाण पत्र जारी करना",
+    "category": "Certificates",
+    "description": "Official revenue department certificate validating individual/household annual income, required for scholarships, housing, and government schemes.",
+    "description_te": "స్కాలర్‌షిప్‌లు, ఇళ్ల పథకాలు మరియు ఇతర సంక్షేమ పథకాల కోసం వ్యక్తిగత/కుటుంబ వార్షిక ఆదాయాన్ని ధ్రువీకరించే అధికారిక రెవెన్యూ పత్రం.",
+    "description_hi": "छात्रवृत्ति, आवास और विभिन्न सरकारी योजनाओं हेतु परिवार की वार्षिक आय को सत्यापित करने वाला आधिकारिक राजस्व प्रमाण पत्र।",
+    "state_region": "Telangana / Andhra Pradesh / Pan-India (Demo)",
+    "department": "Revenue Department & Citizen Service Centers (MeeSeva / CSC)",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 120,
+      "occupations": [
+        "Student",
+        "Farmer",
+        "Senior",
+        "Woman",
+        "Person with Disability",
+        "Other"
+      ],
+      "maxAnnualIncome": 10000000,
+      "targetGroups": [
+        "Student",
+        "Farmer",
+        "Senior",
+        "Woman",
+        "Person with Disability",
+        "Other"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Any bona fide resident citizen requiring proof of income for academic admissions or welfare eligibility.",
+      "summary_te": "విద్యా ప్రవేశాలు లేదా సంక్షేమ పథకాల కోసం ఆదాయ రుజువు అవసరమైన ఏ పౌరుడైనా దరఖాస్తు చేసుకోవచ్చు.",
+      "summary_hi": "शैक्षणिक प्रवेश या कल्याणकारी योजनाओं के लिए आय प्रमाण की आवश्यकता वाले कोई भी नागरिक।"
+    },
+    "documents": [
+      {
+        "id": "doc-applicant-id",
+        "name": "Applicant Aadhaar / Voter ID Card",
+        "name_te": "దరఖాస్తుదారు ఆధార్ / ఓటర్ ఐడి కార్డు",
+        "name_hi": "आवेदक आधार / मतदाता पहचान पत्र",
+        "required": true,
+        "description": "Proof of identity and residential address.",
+        "description_te": "గుర్తింపు మరియు నివాస చిరునామాను తెలిపే పౌరుని ఆధార్ కార్డు.",
+        "description_hi": "पहचान और निवास पते का प्रमाण पत्र।"
+      },
+      {
+        "id": "doc-income-self-declaration",
+        "name": "Self-Declaration / Salary Slip or Patta Copy",
+        "name_te": "స్వయం ప్రకటన / జీతం స్లిప్ లేదా పట్టా కాపీ",
+        "name_hi": "स्व-घोषणा / वेतन पर्ची अथवा भूमि दस्तावेज",
+        "required": true,
+        "description": "Income declaration stating all family earning sources.",
+        "description_te": "కుటుంబ వార్షిక ఆదాయ వివరాలను తెలిపే స్వీయ ప్రకటన లేదా వేతన పత్రం.",
+        "description_hi": "समस्त पारिवारिक आय स्रोतों का स्व-घोषणा पत्र या वेतन पर्ची।"
+      },
+      {
+        "id": "doc-address-bill",
+        "name": "Electricity Bill / Gas Connection Slip",
+        "name_te": "విద్యుత్ బిల్లు / గ్యాస్ కనెక్షన్ రసీదు",
+        "name_hi": "बिजली बिल / गैस कनेक्शन रसीद",
+        "required": true,
+        "description": "Current address proof matching the revenue jurisdiction.",
+        "description_te": "రెవెన్యూ పరిధికి సరిపోయే విద్యుత్ బిల్లు లేదా గ్యాస్ రసీదు.",
+        "description_hi": "राजस्व क्षेत्र से मेल खाता वर्तमान बिजली बिल या गैस कनेक्शन रसीद।"
+      }
+    ],
+    "application_steps": [
+      "Submit Application at MeeSeva / Digital Seva Portal",
+      "VRO (Village Revenue Officer) Local Inquiry",
+      "Revenue Inspector (RI) Verification & Report",
+      "Tahsildar Digital Signature & Downloadable Certificate"
+    ],
+    "processing_information": {
+      "timelineDays": 7,
+      "fee": "₹45 (User service charge at portal)",
+      "authority": "Tahsildar / Mandal Revenue Officer",
+      "deliveryMode": "Digitally Signed PDF Certificate with QR Code",
+      "fee_te": "₹45 (పోర్టల్ వినియోగదారు సేవా రుసుము)",
+      "fee_hi": "₹45 (पोर्टल सेवा शुल्क)",
+      "authority_te": "తహశీల్దార్ / మండల రెవెన్యూ అధికారి",
+      "authority_hi": "तहसीलदार / मंडल राजस्व अधिकारी",
+      "deliveryMode_te": "క్యూఆర్ కోడ్‌తో డిజిటల్ సంతకం చేసిన పీడీఎఫ్ సర్టిఫికెట్",
+      "deliveryMode_hi": "क्यूआर कोड युक्त डिजिटल हस्ताक्षरित पीडीएफ प्रमाणपत्र"
+    },
+    "official_source": "https://meeseva.telangana.gov.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "What is the validity period of this income certificate?",
+        "answer": "Income certificates are valid for 1 year from the date of issue for academic admissions and welfare schemes.",
+        "question_te": "ఈ ఆదాయ ధ్రువీకరణ పత్రం ఎంత కాలం చెల్లుబాటు అవుతుంది?",
+        "answer_te": "విద్యా ప్రవేశాలు మరియు పథకాల కోసం జారీ చేసిన తేదీ నుండి 1 సంవత్సరం పాటు చెల్లుబాటు అవుతుంది.",
+        "question_hi": "इस आय प्रमाण पत्र की वैधता अवधि कितनी है?",
+        "answer_hi": "जारी होने की तारीख से शैक्षणिक और कल्याणकारी योजनाओं के लिए 1 वर्ष की वैधता होती है।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "ధ్రువీకరణ పత్రాలు",
+    "category_hi": "प्रमाणपत्र",
+    "department_te": "రెవెన్యూ శాఖ & పౌర సేవా కేంద్రాలు (మీసేవ / CSC)",
+    "department_hi": "राजस्व विभाग एवं नागरिक सेवा केंद्र (मीसेवा / सीएससी)",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది వార్షిక ఆదాయ ధ్రువీకరణ పత్రం సేవా నమూనా మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल आय प्रमाण पत्र सेवा का विवरण है।",
+    "application_steps_te": [
+      "మీసేవ లేదా డిజిటల్ సేవా పోర్టల్‌లో దరఖాస్తు సమర్పణ",
+      "గ్రామ రెవెన్యూ అధికారి (VRO) స్థానిక విచారణ",
+      "రెవెన్యూ ఇన్‌స్పెక్టర్ (RI) పరిశీలన మరియు నివేదిక",
+      "తహశీల్దార్ డిజిటల్ సంతకం మరియు సర్టిఫికెట్ డౌన్‌లోడ్"
+    ],
+    "application_steps_hi": [
+      "मीसेवा या डिजिटल सेवा पोर्टल पर आवेदन जमा करना",
+      "ग्राम राजस्व अधिकारी (VRO) द्वारा स्थानीय जांच",
+      "राजस्व निरीक्षक (RI) द्वारा सत्यापन एवं रिपोर्ट",
+      "तहसीलदार के डिजिटल हस्ताक्षर और प्रमाण पत्र डाउनलोड"
+    ]
+  },
+  {
+    "id": "disability-pension",
+    "name": "Aasara Monthly Disability Pension Scheme",
+    "name_te": "ఆసరా దివ్యాంగుల నెలవారీ ఆర్థిక పింఛను పథకం",
+    "name_hi": "आसरा दिव्यांग मासिक सामाजिक सुरक्षा पेंशन योजना",
+    "category": "Disability Services",
+    "description": "Direct monthly financial pension disbursed to citizens with certified locomotor, hearing, visual, or physical disabilities, or loss of limbs due to accidents, to ensure dignified living.",
+    "description_te": "ప్రమాదాల వల్ల చేతులు, కాళ్ళు కోల్పోయిన లేదా శాశ్వత శారీరక వైకల్యం కలిగిన పౌరులకు ప్రతి నెలా బ్యాంక్ ఖాతాలో జమ చేసే గౌరవ ఆర్థిక పింఛను పథకం.",
+    "description_hi": "हादसों या दुर्घटना में हाथ-पैर गंवाने अथवा प्रमाणित स्थायी शारीरिक दिव्यांगता वाले नागरिकों के गरिमापूर्ण जीवन हेतु प्रत्यक्ष मासिक वित्तीय पेंशन।",
+    "state_region": "Telangana / Andhra Pradesh / Pan-India (Demo)",
+    "department": "Department for the Welfare of Disabled and Senior Citizens",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 100,
+      "occupations": [
+        "Any",
+        "Person with Disability",
+        "Unemployed",
+        "Homemaker"
+      ],
+      "maxAnnualIncome": 200000,
+      "targetGroups": [
+        "Person with Disability",
+        "All Citizens"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Permanent residents with 40% or higher certified physical disability and annual family income within eligibility limit.",
+      "summary_te": "40% లేదా అంతకంటే ఎక్కువ ధ్రువీకరించిన శారీరక వైకల్యం ఉండి, నిర్దేశిత వార్షిక ఆదాయ పరిమితిలో ఉన్న పౌరులు.",
+      "summary_hi": "40% या अधिक प्रमाणित शारीरिक दिव्यांगता वाले स्थायी निवासी जिनकी पारिवारिक वार्षिक आय निर्धारित सीमा के भीतर हो।"
+    },
+    "documents": [
+      {
+        "id": "doc-sadarem-cert",
+        "name": "SADAREM / UDID Disability Certificate",
+        "name_te": "సదరెం / యూడీఐడీ దివ్యాంగ ధ్రువీకరణ పత్రం",
+        "name_hi": "यूडीआईडी दिव्यांगता प्रमाण पत्र",
+        "required": true,
+        "description": "Medical board issued certificate showing 40% or more impairment.",
+        "description_te": "40% లేదా అంతకంటే ఎక్కువ వైకల్యాన్ని చూపే అధికారిక మెడికల్ బోర్డు సర్టిఫికెట్.",
+        "description_hi": "40% या अधिक दिव्यांगता दर्शाने वाला मेडिकल बोर्ड प्रमाण पत्र।"
+      },
+      {
+        "id": "doc-aadhaar-pwd",
+        "name": "Aadhaar Card of Applicant",
+        "name_te": "దరఖాస్తుదారు ఆధార్ కార్డు",
+        "name_hi": "आवेदक आधार कार्ड",
+        "required": true,
+        "description": "Identity and address proof.",
+        "description_te": "దరఖాస్తుదారుని గుర్తింపు మరియు చిరునామా రుజువు ఆధార్ కార్డు.",
+        "description_hi": "आवेदक का पहचान और निवास प्रमाण पत्र।"
+      },
+      {
+        "id": "doc-income-pwd",
+        "name": "Mandal Income Certificate",
+        "name_te": "మండల ఆదాయ ధ్రువీకరణ పత్రం",
+        "name_hi": "मंडल आय प्रमाण पत्र",
+        "required": true,
+        "description": "Annual household income under ceiling limit.",
+        "description_te": "పరిమితి లోపు కుటుంబ వార్షిక ఆదాయాన్ని తెలిపే ఆదాయ ధ్రువీకరణ పత్రం.",
+        "description_hi": "निर्धारित सीमा के भीतर पारिवारिक आय प्रमाण पत्र।"
+      },
+      {
+        "id": "doc-bank-pwd",
+        "name": "Bank Account Passbook Copy",
+        "name_te": "బ్యాంక్ ఖాతా పాస్‌బుక్ కాపీ",
+        "name_hi": "बैंक खाता पासबुक प्रति",
+        "required": true,
+        "description": "Active savings account linked with Aadhaar.",
+        "description_te": "ఆధార్‌తో అనుసంధానించబడిన క్రియాశీల పొదుపు బ్యాంక్ పాస్‌బుక్.",
+        "description_hi": "आधार से लिंक सक्रिय बचत बैंक पासबुक प्रति।"
+      }
+    ],
+    "application_steps": [
+      "Submit Disability Certificate & Aadhaar Proof at Citizen Center",
+      "District Medical Board & Welfare Officer Verification",
+      "Sanction Order Issued by District Collector",
+      "Direct Benefit Transfer (DBT) Monthly Disbursement"
+    ],
+    "processing_information": {
+      "timelineDays": 15,
+      "fee": "Free (No processing fee)",
+      "authority": "District Welfare Officer (Disabled Welfare)",
+      "deliveryMode": "Direct Benefit Transfer (DBT) to Bank Account",
+      "fee_te": "ఉచితం (ఎటువంటి రుసుము లేదు)",
+      "fee_hi": "निःशुल्क (कोई प्रसंस्करण शुल्क नहीं)",
+      "authority_te": "జిల్లా సంక్షేమాధికారి (దివ్యాంగుల సంక్షేమం)",
+      "authority_hi": "जिला कल्याण अधिकारी (दिव्यांग कल्याण)",
+      "deliveryMode_te": "బ్యాంకు ఖాతాకు ప్రత్యక్ష నగదు బదిలీ (DBT)",
+      "deliveryMode_hi": "बैंक खाते में प्रत्यक्ष लाभ अंतरण (DBT)"
+    },
+    "official_source": "https://welfare.telangana.gov.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "Can citizens who lost a hand or leg in an accident apply?",
+        "answer": "Yes, once an authorized government hospital medical board issues a disability evaluation certificate with >=40% impairment.",
+        "question_te": "ప్రమాదంలో చేయి లేదా కాలు కోల్పోయిన వారు దరఖాస్తు చేసుకోవచ్చా?",
+        "answer_te": "అవును, ప్రభుత్వ ఆసుపత్రి మెడికల్ బోర్డు 40% లేదా అంతకంటే ఎక్కువ వైకల్య ధ్రువీకరణ పత్రం జారీ చేసిన తర్వాత దరఖాస్తు చేసుకోవచ్చు.",
+        "question_hi": "क्या दुर्घटना में हाथ या पैर गंवाने वाले नागरिक आवेदन कर सकते हैं?",
+        "answer_hi": "हाँ, सरकारी अस्पताल के मेडिकल बोर्ड द्वारा 40% या उससे अधिक का दिव्यांगता प्रमाण पत्र जारी होने पर आवेदन किया जा सकता है।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "దివ్యాంగుల సేవలు",
+    "category_hi": "दिव्यांग सेवाएं",
+    "department_te": "దివ్యాంగుల మరియు వయోవృద్ధుల సంక్షేమ శాఖ",
+    "department_hi": "दिव्यांगजन एवं वरिष्ठ नागरिक कल्याण विभाग",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది నమూనా దివ్యాంగ పింఛను సేవా వివరణ మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल दिव्यांग पेंशन सेवा का विवरण है।",
+    "application_steps_te": [
+      "పౌర సేవా కేంద్రంలో వైకల్య ధ్రువీకరణ పత్రం మరియు ఆధార్ సమర్పణ",
+      "జిల్లా వైద్య మండలి మరియు సంక్షేమాధికారి పరిశీలన",
+      "జిల్లా కలెక్టర్ నుండి మంజూరు ఉత్తర్వుల జారీ",
+      "నెలవారీ ప్రత్యక్ష నగదు బదిలీ (DBT) విడుదల"
+    ],
+    "application_steps_hi": [
+      "नागरिक सेवा केंद्र पर दिव्यांगता प्रमाण पत्र और आधार जमा करना",
+      "जिला मेडिकल बोर्ड और कल्याण अधिकारी द्वारा सत्यापन",
+      "जिला कलेक्टर द्वारा स्वीकृति आदेश जारी होना",
+      "प्रत्यक्ष लाभ अंतरण (DBT) द्वारा मासिक भुगतान"
+    ]
+  },
+  {
+    "id": "assistive-devices-support",
+    "name": "Free Assistive Devices, Wheelchairs & Motorized Tricycles Scheme",
+    "name_te": "ఉచిత చక్రాల కుర్చీలు, మోటరైజ్డ్ ట్రైసైకిళ్లు & సహాయక ఉపకరణాల పథకం",
+    "name_hi": "निःशुल्क सहायक उपकरण, व्हीलचेयर एवं मोटराइज्ड ट्राइसाइकिल योजना",
+    "category": "Disability Services",
+    "description": "Provision of customized mobility aids, high-durability wheelchairs, battery-operated motorized tricycles, crutches, and artificial prosthetic limbs for citizens with locomotor disabilities or limb loss.",
+    "description_te": "నడవలేని వారికి, ప్రమాదంలో చేతులు లేదా కాళ్ళు కోల్పోయిన వారికి ఉచిత చక్రాల కుర్చీలు, మోటరైజ్డ్ ట్రైసైకిళ్లు, చేతికర్రలు మరియు కృత్రిమ అవయవాల పంపిణీ.",
+    "description_hi": "चलने में असमर्थ या हादसे में अंग गंवाने वाले नागरिकों के लिए निःशुल्क आधुनिक व्हीलचेयर, बैटरी चलित ट्राइसाइकिल, कृत्रिम अंग और सहायक साधन वितरण।",
+    "state_region": "Telangana / Andhra Pradesh / Pan-India (Demo)",
+    "department": "Disabled Welfare & Artificial Limbs Corporation (ALIMCO Demo)",
+    "eligibility": {
+      "minAge": 5,
+      "maxAge": 90,
+      "occupations": [
+        "Any",
+        "Student",
+        "Employed",
+        "Homemaker"
+      ],
+      "maxAnnualIncome": 300000,
+      "targetGroups": [
+        "Person with Disability",
+        "Locomotor Impaired"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Citizens with certified locomotor disability, loss of hand/leg, or mobility challenge not provided similar equipment within past 3 years.",
+      "summary_te": "నడవలేని లేదా ప్రమాదంలో అవయవాలు కోల్పోయిన దివ్యాంగులు, గత 3 ఏళ్లలో ప్రభుత్వం నుండి ఎలాంటి పరికరాలు తీసుకోని వారు.",
+      "summary_hi": "लोकोमोटर दिव्यांगता अथवा हाथ/पैर गंवाने वाले नागरिक जिन्होंने पिछले 3 वर्षों में सरकारी उपकरण प्राप्त न किया हो।"
+    },
+    "documents": [
+      {
+        "id": "doc-sadarem-mobility",
+        "name": "Disability Assessment Certificate with % of Impairment",
+        "name_te": "వైకల్య శాతాన్ని చూపే అధికారిక ధ్రువీకరణ పత్రం",
+        "name_hi": "दिव्यांगता प्रतिशत दर्शाने वाला मूल्यांकन प्रमाण पत्र",
+        "required": true,
+        "description": "Disability evaluation showing locomotor impairment.",
+        "description_te": "నడక లేదా అవయవ లోపాన్ని చూపే అధికారిక వైకల్య సర్టిఫికెట్.",
+        "description_hi": "शारीरिक दिव्यांगता दर्शाने वाला मूल्यांकन प्रमाण पत्र।"
+      },
+      {
+        "id": "doc-identity-proof",
+        "name": "Aadhaar Card / Age Proof",
+        "name_te": "ఆధార్ కార్డు / వయస్సు రుజువు",
+        "name_hi": "आधार कार्ड / आयु प्रमाण",
+        "required": true,
+        "description": "Valid resident identification document.",
+        "description_te": "చెల్లుబాటు అయ్యే నివాస గుర్తింపు పత్రం లేదా ఆధార్ కార్డు.",
+        "description_hi": "वैध नागरिक पहचान दस्तावेज़ या आधार कार्ड।"
+      },
+      {
+        "id": "doc-doctor-recommendation",
+        "name": "Orthopedic Surgeon Fitment Recommendation",
+        "name_te": "ఆర్థోపెడిక్ సర్జన్ సిఫార్సు లేఖ",
+        "name_hi": "ऑर्थोपेडिक सर्जन अनुशंसा पत्र",
+        "required": true,
+        "description": "Clinical prescription specifying wheelchair, prosthetic limb, or motorized tricycle.",
+        "description_te": "వీల్‌చైర్, కృత్రిమ అవయవం లేదా మోటరైజ్డ్ ట్రైసైకిల్‌ను సిఫార్సు చేస్తూ డాక్టర్ లేఖ.",
+        "description_hi": "व्हीलचेयर, कृत्रिम अंग या ट्राइसाइकिल की अनुशंसा करने वाला डॉक्टर का पर्चा।"
+      }
+    ],
+    "application_steps": [
+      "Online Device Assessment Booking",
+      "Orthopedic Fitment Measurement Camp",
+      "Device Customization & Quality Certification",
+      "Public Distribution Camp Delivery with Warranty"
+    ],
+    "processing_information": {
+      "timelineDays": 30,
+      "fee": "Free of cost (Fully Government Funded)",
+      "authority": "General Manager, Disabled Welfare Corporation",
+      "deliveryMode": "Direct Handover at District Welfare Camp",
+      "fee_te": "ఉచితం (పూర్తిగా ప్రభుత్వ నిధులతో)",
+      "fee_hi": "निःशुल्क (पूरी तरह से सरकारी अनुदानित)",
+      "authority_te": "జనరల్ మేనేజర్, దివ్యాంగుల సంక్షేమ సంస్థ",
+      "authority_hi": "महाप्रबंधक, दिव्यांग कल्याण निगम",
+      "deliveryMode_te": "జిల్లా సంక్షేమ శిబిరంలో ప్రత్యక్ష అందజేత",
+      "deliveryMode_hi": "जिला कल्याण शिविर में प्रत्यक्ष वितरण"
+    },
+    "official_source": "https://disabilitywelfare.telangana.gov.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "Can I receive an electric motorized tricycle if I lost both legs or have severe mobility loss?",
+        "answer": "Yes, citizens aged 16+ with 80%+ locomotor disability or bilateral limb loss are prioritized for motorized tricycles.",
+        "question_te": "తీవ్ర నడక వైకల్యం ఉన్న వారికి బ్యాటరీ ట్రైసైకిల్ లభిస్తుందా?",
+        "answer_te": "అవును, 16 సంవత్సరాలు పైబడి తీవ్ర వైకల్యం ఉన్న వారికి ఉచిత మోటరైజ్డ్ ట్రైసైకిల్ మొదటి ప్రాధాన్యతగా ఇవ్వబడుతుంది.",
+        "question_hi": "क्या दोनों पैर गंवाने वाले नागरिकों को मोटराइज्ड ट्राइसाइकिल मिल सकती है?",
+        "answer_hi": "हाँ, 16 वर्ष से अधिक आयु एवं गंभीर लोकोमोटर दिव्यांगता वाले नागरिकों को प्राथमिकता दी जाती है।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "దివ్యాంగుల సేవలు",
+    "category_hi": "दिव्यांग सेवाएं",
+    "department_te": "రాష్ట్ర దివ్యాంగుల సంక్షేమ సహకార సంస్థ (TGVCC)",
+    "department_hi": "राज्य दिव्यांग कल्याण एवं उपकरण निगम",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది ఉచిత సహాయక పరికరాలు & చక్రాల కుర్చీల సేవా నమూనా మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल निःशुल्क सहायक उपकरण एवं व्हीलचेयर सेवा है।",
+    "application_steps_te": [
+      "మీసేవ పోర్టల్‌లో ఆన్‌లైన్ రిజిస్ట్రేషన్ మరియు పరికరం ఎంపిక",
+      "జిల్లా సర్జన్ ద్వారా భౌతిక వైకల్య కొలతల తనిఖీ",
+      "జిల్లా సెలెక్షన్ కమిటీ ద్వారా ఆమోదం",
+      "ప్రత్యేక సంక్షేమ శిబిరంలో పరికరాల ఉచిత పంపిణీ"
+    ],
+    "application_steps_hi": [
+      "पोर्टल पर ऑनलाइन पंजीकरण और आवश्यक उपकरण का चयन",
+      "जिला सर्जन द्वारा शारीरिक माप एवं परीक्षण",
+      "जिला चयन समिति द्वारा स्वीकृति अनुमोदन",
+      "विशेष जिला शिविर में निःशुल्क उपकरण वितरण"
+    ]
+  },
+  {
+    "id": "disability-certificate-sadarem",
+    "name": "SADAREM / UDID Universal Disability Identity & Medical Assessment Certificate",
+    "name_te": "సదరెం / యుడిఐడి ప్రత్యేక దివ్యాంగ గుర్తింపు & వైద్య ధ్రువీకరణ పత్రం",
+    "name_hi": "यूडीआईडी विशिष्ट दिव्यांगता पहचान पत्र एवं सरकारी चिकित्सा मूल्यांकन प्रमाण पत्र",
+    "category": "Disability Services",
+    "description": "Comprehensive digital disability certificate issued following scientific evaluation by government medical specialists, unlocking railway concessions, bus passes, reservations, and pension benefits.",
+    "description_te": "ప్రభుత్వ వైద్య నిపుణుల సమగ్ర పరిశీలన తర్వాత జారీ చేయబడే అధికారిక దివ్యాంగ ధ్రువీకరణ పత్రం. ఇది బస్సు పాస్, రైల్వే రాయితీ మరియు పింఛన్లకు అత్యవసరం.",
+    "description_hi": "सरकारी विशेषज्ञ डॉक्टरों द्वारा चिकित्सकीय जांच के बाद जारी विशिष्ट यूडीआईडी पहचान पत्र, जो रियायतों, नौकरियों में आरक्षण और पेंशन हेतु अनिवार्य है।",
+    "state_region": "Telangana / Andhra Pradesh / Pan-India (Demo)",
+    "department": "Department of Health & Family Welfare / District Medical Board",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 120,
+      "occupations": [
+        "Any"
+      ],
+      "maxAnnualIncome": 10000000,
+      "targetGroups": [
+        "Person with Disability",
+        "Accident Victims",
+        "All Citizens"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Any resident citizen with congenital, accidental, or acquired physical, visual, hearing, or mental challenge requiring legal certificate.",
+      "summary_te": "జన్మతః లేదా ప్రమాదం వల్ల అంగవైకల్యం పొంది అధికారిక గుర్తింపు పత్రం అవసరమైన ఏ పౌరుడైనా.",
+      "summary_hi": "जन्मजात या दुर्घटना के कारण शारीरिक, दृष्टि या श्रवण विकार से ग्रस्त कोई भी नागरिक।"
+    },
+    "documents": [
+      {
+        "id": "doc-hospital-discharge",
+        "name": "Accident / Hospital Treatment Summary or Case Sheet",
+        "name_te": "ప్రమాదం / ఆసుపత్రి చికిత్స రికార్డులు",
+        "name_hi": "हादसा / अस्पताल उपचार सारांश पत्र",
+        "required": true,
+        "description": "Clinical diagnosis report showing injury or impairment.",
+        "description_te": "గాయం లేదా వైకల్యాన్ని తెలిపే ఆసుపత్రి చికిత్స రికార్డులు లేదా డిశ్చార్జ్ సమ్మరీ.",
+        "description_hi": "चोट अथवा दिव्यांगता दर्शाने वाली अस्पताल डिस्चार्ज समरी।"
+      },
+      {
+        "id": "doc-aadhaar-citizen",
+        "name": "Citizen Aadhaar Card",
+        "name_te": "పౌరుని ఆధార్ కార్డు",
+        "name_hi": "नागरिक आधार कार्ड",
+        "required": true,
+        "description": "Identity and proof of citizenship.",
+        "description_te": "పౌరుని అధికారిక ఆధార్ కార్డు.",
+        "description_hi": "पहचान और नागरिकता प्रमाण हेतु आधार कार्ड।"
+      },
+      {
+        "id": "doc-photographs-disability",
+        "name": "Full Length Color Photographs showing Affected Limb",
+        "name_te": "వైకల్యం లేదా ప్రభావిత అవయవాన్ని చూపే పూర్తి ఫోటోలు",
+        "name_hi": "प्रभावित अंग दर्शाने वाली रंगीन फोटोग्राफ",
+        "required": true,
+        "description": "Recent passport and post-operative photographs.",
+        "description_te": "వైకల్యం లేదా ప్రభావిత అవయవాన్ని స్పష్టంగా చూపే ఇటీవలి పూర్తి రంగు ఫోటోలు.",
+        "description_hi": "प्रभावित अंग दर्शाने वाली स्पष्ट हालिया रंगीन तस्वीरें।"
+      }
+    ],
+    "application_steps": [
+      "Slot Booking at Local MeeSeva / Primary Health Center",
+      "Physical Assessment by District Hospital Medical Board",
+      "Computerized Score Calculation (SADAREM Software)",
+      "Instant Downloadable Digital Certificate & PVC UDID Smart Card"
+    ],
+    "processing_information": {
+      "timelineDays": 14,
+      "fee": "Free (Nominal slot booking fee ₹35 at portal)",
+      "authority": "Superintendent, District Government Headquarters Hospital",
+      "deliveryMode": "Speed Post Plastic UDID Card + Instant PDF",
+      "fee_te": "ఉచితం (పోర్టల్‌లో నామమాత్రపు స్లాట్ బుకింగ్ రుసుము ₹35)",
+      "fee_hi": "निःशुल्क (पोर्टल पर केवल ₹35 स्लॉट बुकिंग शुल्क)",
+      "authority_te": "సూపరింటెండెంట్, జిల్లా ప్రభుత్వ ప్రధాన ఆసుపత్రి",
+      "authority_hi": "अधीक्षक, जिला सरकारी मुख्य अस्पताल",
+      "deliveryMode_te": "స్పీడ్ పోస్ట్ ద్వారా ప్లాస్టిక్ స్మార్ట్ కార్డ్ + తక్షణ పీడీఎఫ్",
+      "deliveryMode_hi": "स्पीड पोस्ट स्मार्ट कार्ड एवं त्वरित पीडीएफ डाउनलोड"
+    },
+    "official_source": "https://sadarem.telangana.gov.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "What if I lost my hand or leg recently in an accident?",
+        "answer": "Bring your hospital discharge summary and operative notes; the medical board assesses permanent functional deficit and issues your certificate.",
+        "question_te": "ఇటీవల ప్రమాదంలో చేయి లేదా కాలు కోల్పోతే ధ్రువీకరణ పత్రం వస్తుందా?",
+        "answer_te": "అవును, ఆసుపత్రి చికిత్స రికార్డులతో హాజరైతే మెడికల్ బోర్డు శాశ్వత వైకల్య శాతాన్ని లెక్కించి ధ్రువీకరణ పత్రం జారీ చేస్తుంది.",
+        "question_hi": "यदि हाल ही में हादसे में हाथ या पैर कट गया हो तो क्या प्रमाणपत्र मिलेगा?",
+        "answer_hi": "हाँ, अस्पताल के डिस्चार्ज पेपर के आधार पर मेडिकल बोर्ड स्थायी दिव्यांगता का आकलन कर प्रमाण पत्र जारी करता है।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "దివ్యాంగుల సేవలు",
+    "category_hi": "दिव्यांग सेवाएं",
+    "department_te": "వైద్య ఆరోగ్య మరియు కుటుంబ సంక్షేమ శాఖ / జిల్లా వైద్య మండలి",
+    "department_hi": "चिकित्सा एवं स्वास्थ्य कल्याण विभाग / जिला मेडिकल बोर्ड",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది సదరెం / యూడీఐడీ సర్టిఫికెట్ సేవా నమూనా మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल यूडीआईडी / दिव्यांगता प्रमाण पत्र सेवा है।",
+    "application_steps_te": [
+      "స్థానిక మీసేవ / ప్రాథమిక ఆరోగ్య కేంద్రంలో స్లాట్ బుకింగ్",
+      "జిల్లా ఆసుపత్రి మెడికల్ బోర్డు ద్వారా శారీరక పరీక్ష",
+      "కంప్యూటరైజ్డ్ వైకల్య శాతాన్ని లెక్కించడం (సదరెం సాఫ్ట్‌వేర్)",
+      "వెంటనే డౌన్‌లోడ్ చేసుకోగల డిజిటల్ సర్టిఫికెట్ & యూడీఐడీ స్మార్ట్ కార్డ్"
+    ],
+    "application_steps_hi": [
+      "स्थानीय मीसेवा / प्राथमिक स्वास्थ्य केंद्र पर स्लॉट बुकिंग",
+      "जिला अस्पताल मेडिकल बोर्ड द्वारा शारीरिक जांच",
+      "कंप्यूटरीकृत स्कोर गणना (सदरम सॉफ्टवेयर)",
+      "तत्काल डिजिटल डाउनलोड और पीवीसी स्मार्ट कार्ड"
+    ]
+  },
+  {
+    "id": "disability-education-skill-support",
+    "name": "Divyangjan Vocational Skill Training & Self-Employment Subsidy",
+    "name_te": "దివ్యాంగుల వృత్తి నైపుణ్య శిక్షణ & స్వయం ఉపాధి ఆర్థిక సబ్సిడీ",
+    "name_hi": "दिव्यांगजन व्यावसायिक कौशल प्रशिक्षण एवं स्वरोजगार वित्तीय अनुदान योजना",
+    "category": "Disability Services",
+    "description": "Specialized residential and online vocational training stipends, accessible IT courses, and up to 50% subsidized bank loans for persons with disabilities starting micro-enterprises.",
+    "description_te": "దివ్యాంగులకు ఉచిత కంప్యూటర్ మరియు వృత్తి విద్యా శిక్షణ, నెలకు స్టైపెండ్ మరియు చిన్న వ్యాపారాలు ప్రారంభించడానికి 50% వరకు రాయితీ రుణాలు.",
+    "description_hi": "दिव्यांगजनों के लिए निःशुल्क कौशल प्रशिक्षण, मासिक वजीफा और सूक्ष्म व्यवसाय शुरू करने के लिए 50% तक बैंक ऋण सब्सिडी योजना।",
+    "state_region": "Telangana / Andhra Pradesh / Pan-India (Demo)",
+    "department": "State Disabled Finance Corporation & National Skill Development Mission",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 55,
+      "occupations": [
+        "Person with Disability",
+        "Unemployed",
+        "Entrepreneur"
+      ],
+      "maxAnnualIncome": 300000,
+      "targetGroups": [
+        "Person with Disability"
+      ],
+      "states": [
+        "Telangana",
+        "Andhra Pradesh",
+        "All States"
+      ],
+      "summary": "Persons with minimum 40% certified disability seeking vocational livelihoods or self-employment capital.",
+      "summary_te": "కనీసం 40% వైకల్యం ఉండి ఉపాధి నైపుణ్యాలు లేదా స్వయం ఉపాధి పెట్టుబడి కోరుకునే 18-55 ఏళ్ల దివ్యాంగులు.",
+      "summary_hi": "कम से कम 40% दिव्यांगता प्रमाण पत्र धारक जो रोजगार कौशल या स्वरोजगार हेतु पूंजी प्राप्त करना चाहते हैं।"
+    },
+    "documents": [
+      {
+        "id": "doc-disability-id",
+        "name": "SADAREM / UDID Smart Card",
+        "name_te": "సదరెం / యూడీఐడీ స్మార్ట్ కార్డ్",
+        "name_hi": "यूडीआईडी स्मार्ट कार्ड",
+        "required": true,
+        "description": "Valid disability identity card.",
+        "description_te": "చెల్లుబాటు అయ్యే సదరెం లేదా యూడీఐడీ దివ్యాంగ గుర్తింపు కార్డు.",
+        "description_hi": "वैध सदरम अथवा यूडीआईडी दिव्यांगता पहचान पत्र।"
+      },
+      {
+        "id": "doc-age-proof",
+        "name": "SSC Memo / Birth Certificate",
+        "name_te": "పదవ తరగతి మెమో / జనన ధ్రువీకరణ పత్రం",
+        "name_hi": "10वीं अंकतालिका / जन्म प्रमाण पत्र",
+        "required": true,
+        "description": "Age verification document.",
+        "description_te": "వయస్సు నిర్ధారణ కోసం పదవ తరగతి మార్కుల మెమో లేదా జనన ధ్రువీకరణ పత్రం.",
+        "description_hi": "आयु सत्यापन हेतु 10वीं की अंकतालिका या जन्म प्रमाण पत्र।"
+      },
+      {
+        "id": "doc-project-proposal",
+        "name": "Brief Outline of Proposed Self-Employment Unit",
+        "name_te": "ప్రతిపాదిత వ్యాపార యూనిట్ సంక్షిప్త వివరణ",
+        "name_hi": "प्रस्तावित स्वरोजगार इकाई का संक्षिप्त विवरण",
+        "required": false,
+        "description": "Optional business proposal if applying for loan subsidy.",
+        "description_te": "లోన్ సబ్సిడీ దరఖాస్తు కోసం ప్రతిపాదిత వ్యాపార యూనిట్ ప్రణాళిక.",
+        "description_hi": "ऋण सब्सिडी आवेदन के लिए प्रस्तावित व्यावसायिक योजना का विवरण।"
+      }
+    ],
+    "application_steps": [
+      "Online Skill Track / Self-Employment Application Registration",
+      "District Screening Committee Interview & Trade Selection",
+      "Skill Certification or Bank Loan Linkage Sanction",
+      "Release of Subsidy Grant"
+    ],
+    "processing_information": {
+      "timelineDays": 25,
+      "fee": "Free",
+      "authority": "Executive Director, Disabled Welfare Finance Corporation",
+      "deliveryMode": "Direct Bank Loan Subsidy & Training Placement",
+      "fee_te": "ఉచితం",
+      "fee_hi": "निःशुल्क",
+      "authority_te": "ఎగ్జిక్యూటివ్ డైరెక్టర్, దివ్యాంగుల సంక్షేమ ఫైనాన్స్ కార్పొరేషన్",
+      "authority_hi": "कार्यकारी निदेशक, दिव्यांग कल्याण वित्त निगम",
+      "deliveryMode_te": "బ్యాంక్ లోన్ సబ్సిడీ మరియు శిక్షణా ప్లేస్‌మెంట్",
+      "deliveryMode_hi": "बैंक ऋण सब्सिडी एवं रोजगार प्लेसमेंट"
+    },
+    "official_source": "https://tsobmms.cgg.gov.in (Simulated Demo Link)",
+    "faq": [
+      {
+        "question": "Is hostel accommodation provided during the skill training?",
+        "answer": "Yes, free accessible hostel boarding and lodging is provided during residential skill sessions.",
+        "question_te": "శిక్షణ సమయంలో ఉచిత వసతి లభిస్తుందా?",
+        "answer_te": "అవును, శిక్షణ కాలంలో ఉచిత భోజన, వసతి సౌకర్యాలు కల్పించబడతాయి.",
+        "question_hi": "क्या प्रशिक्षण के दौरान हॉस्टल सुविधा मिलती है?",
+        "answer_hi": "हाँ, आवासीय प्रशिक्षण सत्रों के दौरान निःशुल्क रहने और खाने की सुविधा उपलब्ध है।"
+      }
+    ],
+    "is_demo": true,
+    "demo_disclaimer": "This is preliminary guidance. Final eligibility is determined by the concerned authority. (Demo data)",
+    "category_te": "దివ్యాంగుల సేవలు",
+    "category_hi": "दिव्यांग सेवाएं",
+    "department_te": "రాష్ట్ర దివ్యాంగుల ఫైనాన్స్ కార్పొరేషన్ & జాతీయ నైపుణ్యాభివృద్ధి మిషన్",
+    "department_hi": "राज्य दिव्यांग वित्त निगम एवं राष्ट्रीय कौशल विकास मिशन",
+    "demo_disclaimer_te": "డెమో డేటా: ఇది దివ్యాంగుల ఉపాధి నైపుణ్య శిక్షణ సేవా నమూనా మాత్రమే.",
+    "demo_disclaimer_hi": "डेमो डेटा: यह केवल एक मॉडल कौशल प्रशिक्षण एवं स्वरोजगार सेवा है।",
+    "application_steps_te": [
+      "ఆన్‌లైన్ నైపుణ్య శిక్షణ / స్వయం ఉపాధి దరఖాస్తు నమోదు",
+      "జిల్లా స్క్రీనింగ్ కమిటీ ఇంటర్వ్యూ మరియు కోర్సు ఎంపిక",
+      "నైపుణ్య సర్టిఫికేషన్ లేదా బ్యాంక్ లోన్ లింకేజ్ మంజూరు",
+      "ప్రభుత్వ సబ్సిడీ గ్రాంట్ విడుదల"
+    ],
+    "application_steps_hi": [
+      "ऑनलाइन कौशल ट्रैक / स्वरोजगार आवेदन पंजीकरण",
+      "जिला स्क्रीनिंग कमेटी साक्षात्कार एवं ट्रेड चयन",
+      "कौशल प्रमाणन अथवा बैंक ऋण लिंकेज स्वीकृति",
+      "सब्सिडी अनुदान का सीधे वितरण"
+    ]
+  }
+]
